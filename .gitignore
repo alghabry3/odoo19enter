@@ -2,3 +2,5 @@
 !.gitignore
 !.gitattributes
 !odoo_19.tar.gz
+!odoo19/
+!odoo19/**
